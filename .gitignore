@@ -2,3 +2,6 @@
 # vs code
 .vscode/
 temp/
+*.cabal
+.stack-work/
+*.lock
