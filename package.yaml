@@ -1,0 +1,9 @@
+dependencies:
+  - base
+  - diagrams
+  - diagrams-lib
+  - diagrams-svg
+executables:
+  greeting:
+    source-dirs: greeting
+    main: Main.hs
